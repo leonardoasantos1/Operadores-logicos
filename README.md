@@ -20,8 +20,8 @@ A função retorna `true` se o número for divisível por 3 e 5 ao mesmo tempo. 
 ## Exemplos de Uso
 ```javascript
 console.log(isDivisibleByThreeAndFive(15));  // Saída: true
-Explicação: 15 é divisível por 3 e 5, pois o resto da divisão por 3 e por 5 é zero.
+//Explicação: 15 é divisível por 3 e 5, pois o resto da divisão por 3 e por 5 é zero.
 console.log(isDivisibleByThreeAndFive(9));   // Saída: false
-Explicação: 9 é divisível por 3, mas não por 5, então a função retorna false.
+//Explicação: 9 é divisível por 3, mas não por 5, então a função retorna false.
 console.log(isDivisibleByThreeAndFive(25));  // Saída: false
-Explicação: 25 não é divisível nem por 3 nem por 5, então a função retorna false.
+//Explicação: 25 não é divisível nem por 3 nem por 5, então a função retorna false.
