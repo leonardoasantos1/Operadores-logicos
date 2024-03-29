@@ -1,4 +1,4 @@
-# Documentação da Função: Verificando Divisibilidade por 3 e 5 ao Mesmo Tempo
+# Verificando Divisibilidade por 3 e 5 ao Mesmo Tempo
 
 ## Objetivo
 A função `isDivisibleByThreeAndFive` tem como objetivo determinar se um número é divisível por 3 e 5 ao mesmo tempo.
